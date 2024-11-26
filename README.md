@@ -3,6 +3,9 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou um profissional com sólida experiência no setor financeiro e um foco atual em ciência de dados, Business Intelligence e Business Analytics. Minha meta é integrar habilidades analíticas e técnicas para transformar dados em insights estratégicos.
 
+Aqui você encontrará projetos de **análise de dados**, **ciência de dados** e **machine learning**, voltados para resolver problemas práticos e explorar dados de maneira estratégica. Confira os repositórios e contribua com suas ideias! 🚀
+
+
 ## 📜 Sobre Mim
 
 - 💼 **Ex-Gerente no Banco Bradesco**, especializado em investimentos, análise de créditoe fotografica financeira 
