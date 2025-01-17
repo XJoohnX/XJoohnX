@@ -8,7 +8,7 @@ Aqui você encontrará projetos de **análise de dados**, **ciência de dados** 
 
 ## 📜 Sobre Mim
 
-- 💼 **Ex-Gerente no Banco Bradesco**, especializado em investimentos, análise de créditoe fotografia financeira 
+- 💼 **Ex-Gerente no Banco Bradesco**, especializado em investimentos, análise de crédito e fotografia financeira 
 - 🎓 **Certificado CEA pela ANBIMA** com experiência em estratégias financeiras e análise de mercado.
 - 🌱 Em transição para a área de **Ciência de Dados**, com foco em Machine Learning, análise preditiva e visualização de dados.
 - 🏃 **Entusiasta de Corrida de Rua**: Me esforço a participar de corridas e me manter ativo.
